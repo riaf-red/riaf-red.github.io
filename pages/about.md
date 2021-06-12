@@ -19,13 +19,13 @@ This site is a collection of resources gathered by the Red Interamericana Anti F
 
 
 # Frequently Asked Questions
-## What is Femicide? 
+1. What is Femicide? 
 
 Text goes here. 
 
 
 
-## What is the Red Interamericana Anti Femicida? 
+2. What is the Red Interamericana Anti Femicida? 
 
 Text goes here. 
 

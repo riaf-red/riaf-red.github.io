@@ -12,19 +12,23 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+# About the Collection
 
 This site is a collection of resources gathered by the Red Interamericana Anti Femicida, an organic collaborative of activists, academics, survivors, and families of victims of femicide across the western hemisphere. 
 
-# Frequently Asked Questions
 
+
+# Frequently Asked Questions
 ## What is Femicide? 
 
 Text goes here. 
 
+
+
 ## What is the Red Interamericana Anti Femicida? 
 
 Text goes here. 
+
 
 
 

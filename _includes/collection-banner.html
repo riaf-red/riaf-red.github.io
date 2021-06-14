@@ -24,11 +24,7 @@
 }
 </style>
 <div id="home-banner" class="container-fluid mb-0 p-0">
-    <div id="home-title-box" >
-        <div class="p-2 text-center">
-           
-        </div>
-    </div>
+    <div id="home-title-box" ></div>
     {% unless site.data.theme.featured-image contains '/' %}<div class="text-right p-0 mt-0">
         <small><a class="text-info featured-link p-2" href="{{ site.data.theme.featured-image | prepend: '/item.html?id=' | relative_url }}" title="{{ featuredItem.title | escape }}">Featured Image</a></small>
     </div>{% endunless %}

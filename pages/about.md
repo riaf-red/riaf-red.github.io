@@ -8,7 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="riaf000000005" %}
+{% include feature/image.html objectid="riaf000000005" width="50" caption=false %}
+
 
 # About the Red Interamericana Antifemicida 
 

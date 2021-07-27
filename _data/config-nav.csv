@@ -1,13 +1,13 @@
 display_name,stub,dropdown_parent
 Home,/
-Digital Repository,
+Digital Repository,/
 Browse,/browse.html, Digital Repository
 Subjects,/subjects.html, Digital Repository
 Locations,/locations.html, Digital Repository
 Map,/map.html, Digital Repository
 Timeline,/timeline.html, Digital Repository
 Data,/data.html, Digital Repository
-About,
+About,/
 About RIAF,/about.html, About
 Team,/team.html, About
 Affiliated Organizations,/affiliates.html, About

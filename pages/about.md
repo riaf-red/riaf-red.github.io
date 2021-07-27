@@ -8,12 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+# About the Red Interamericana Antifemicida 
+
+The Red Interamericana Anti Femicida (RIAF) is a multilingual/interdisciplinary community for academic and activist dialogue on feminicide/femicide in the Americas. The goal of this group is to work collaboratively and to facilitate and share expert research as well as lived experiences from diverse contexts and communities with the intention of sharing knowledge across our hemisphere. We believe that by amplifying our collective knowledge, we can help contribute to the prevention of feminicide.
+
+La Red Interamericana Anti Femicida (RIAF) es una comunidad multilingüe / interdisciplinaria para el diálogo académico y activista sobre el feminicidio /femicidio en las Américas. El objetivo de este grupo es trabajar de manera colaborativa para facilitar y compartir el conocimiento experto y las experiencias vividas de diversos contextos y comunidades con la intención de compartir conocimiento entre nuestro hemisferio. Creemos que al ampliar nuestro conocimiento colectivo, podemos contribuir a la prevención del feminicidio.
+
+
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the Digital Repository
 
 This site is a collection of resources gathered by the Red Interamericana Anti Femicida, an organic collaborative of activists, academics, survivors, and families of victims of femicide across the western hemisphere. 
-
 
 
 ## Frequently Asked Questions

@@ -1,6 +1,6 @@
 ---
 title: Affiliated Organizations
-layout: about
+layout: browse
 permalink: /affiliates.html
 ---
 

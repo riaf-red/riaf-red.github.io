@@ -11,8 +11,8 @@ All of our events are free and open to the general public, however, pre-registra
 ### Charlas 
 
 ### "Ni una menos: un grito vigente en Argentina"/ "Ni una menos: An Urgent Cry in Argentina" 
-- Thursday, August 16 / Jueves, 16 de agosto 
-- 4:00 pm CST/CDMX; 6:00 pm Argentina 
+Thursday/Jueves, 16 August 2021
+4:00 pm CST/CDMX; 6:00 pm Argentina 
 
 Con Lara Andrés y Laura Oszust del Observatorio Ahora que Nos Ven
 With Lara Andrés and Laura Oszust from Observatorio Ahora que Nos Ven

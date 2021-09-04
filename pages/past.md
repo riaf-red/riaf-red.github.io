@@ -25,4 +25,4 @@ Organized by la Red Interamericana Anti Femicida and el Observatorio de Violenci
 
 
 
-{% include feature/image.html objectid="riaf000000008" width="25" caption=false %} | {% include feature/image.html objectid="riaf000000009" width="25" caption=false %}
+{% include feature/image.html objectid="riaf000000008" width="25" caption=false %}{% include feature/image.html objectid="riaf000000009" width="25" caption=false %}

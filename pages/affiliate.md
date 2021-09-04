@@ -14,10 +14,10 @@ Ahora que si nos ven is an observatory of gender violence that aims to make visi
 
 *Es un observatorio de las violencias de género que tiene como objetivo visibilizar y denunciar las violencias machistas que afectan la libertad de las mujeres, trans, travestis, lesbianas y personas no binaries. La información que desarrollamos, reconstruimos y relevamos tiene como misión ser un insumo para el diseño e implementación de políticas públicas que garanticen nuestro derecho a vivir una vida libre de violencias. Fundado por Raquel Vivanco quien lo presidió desde su creación hasta el 1 de marzo del 2020.*  
 
-[ahoraquesinosven@gmail.com](ahoraquesinosven@gmail.com)  
-[Facebook](https://www.facebook.com/ahoraquesinosven)   
-[Instagram](https://www.instagram.com/ahoraquesinosvenok/)  
-[Twitter](https://twitter.com/ahoraquesinosv4)  
+Email: ahoraquesinosven@gmail.com  
+[Facebook](https://www.facebook.com/ahoraquesinosven)     
+[Instagram](https://www.instagram.com/ahoraquesinosvenok/)    
+[Twitter](https://twitter.com/ahoraquesinosv4)    
 
 
 ### CONAMI (Coordinadora Nacional de Mujeres Indígenas Mexico)
@@ -26,7 +26,7 @@ CONAMI Mexico's main objective is to fight and defend the rights of indigenous w
 
 *La CONAMI México tiene como objetivo principal la lucha y defensa de los derechos de las mujeres indígenas de lo local a lo internacional. Un eje principal es el fortalecimiento político de las mujeres indígenas y de sus organizaciones de base.*  
 
-[mujeresindigenasconami@gmail.com](mujeresindigenasconami@gmail.com)  
+Email: mujeresindigenasconami@gmail.com  
 [Facebook](https://www.facebook.com/mujeresindigenasconamimexico)   
 
 
@@ -37,7 +37,7 @@ A group built by family members of victims of femicide that tries to generate su
 
 *Un grupo construido por familiares victimas de femicidios que intenta generar la contención y asesoramiento de aquellos que pasan por situaciones violentas.*  
 
-Email: [atravesadosporelfemicidio@gmail.com] (atravesadosporelfemicidio@gmail.com)  
+Email: atravesadosporelfemicidio@gmail.com  
 [Facebook](https://www.facebook.com/Atravesados-por-el-femicidio-542493676125700)  
 [Instagram](https://www.instagram.com/atravesadosporelfemicidio/?hl=en)   
 [Twitter](https://twitter.com/atravesadosx?lang=en)  
@@ -61,7 +61,7 @@ Women Count USA - United States Femicide Database was started in late 2016 by Da
 
 *Women Count USA - La base de datos de femicidios de los Estados Unidos se inició a fines de 2016 por Dawn Wilcox para rastrear y documentar a todas las mujeres y niñas asesinadas por hombres y niños en los Estados Unidos y desafiar las narrativas de los medios de comunicación sobre la violencia doméstica y el feminicidio.*  
 
-Email: [womencountusa@gmail.com](womencountusa@gmail.com)  
+Email: womencountusa@gmail.com  
 Phone: 469-364-9424  
 [Facebook](https://www.facebook.com/womencountusa)  
 

@@ -14,7 +14,7 @@ RIAF partners with a number of organizations who also work in anti-feminicide or
 
 ### AHORA QUE SI NOS VEN 
 **Argentina**    
-[Email](<ahoraquesinosven@gmail.com>) | [Facebook](https://www.facebook.com/ahoraquesinosven) | [Instagram](https://www.instagram.com/ahoraquesinosvenok/) | [Twitter](https://twitter.com/ahoraquesinosv4)    
+[Email](mailto:ahoraquesinosven@gmail.com) | [Facebook](https://www.facebook.com/ahoraquesinosven) | [Instagram](https://www.instagram.com/ahoraquesinosvenok/) | [Twitter](https://twitter.com/ahoraquesinosv4)    
 
 Ahora que si nos ven is an observatory of gender violence that aims to make visible and denounce sexist violence that affects the freedom of women, trans, *travestis*, lesbians and non-binary people. We develop, reconstruct, and collect data with the mission of being an input for the design and implementation of public policies that guarantee our right to live a life free of violence. Founded by Raquel Vivanco who presided over it from its creation until March 1, 2020.  
 
@@ -25,7 +25,7 @@ Ahora que si nos ven is an observatory of gender violence that aims to make visi
 
 ### CONAMI (Coordinadora Nacional de Mujeres Indígenas Mexico)
 **Mexico**    
-[Email](mujeresindigenasconami@gmail.com) | [Facebook](https://www.facebook.com/mujeresindigenasconamimexico)  
+[Email](mailto:mujeresindigenasconami@gmail.com) | [Facebook](https://www.facebook.com/mujeresindigenasconamimexico)  
 CONAMI Mexico's main objective is to fight and defend the rights of indigenous women at both the local and international level. Our aim is the political strengthening of Indigenous women and their grassroots organizations.  
 
 *La CONAMI México tiene como objetivo principal la lucha y defensa de los derechos de las mujeres indígenas de lo local a lo internacional. Un eje principal es el fortalecimiento político de las mujeres indígenas y de sus organizaciones de base.*  
@@ -34,7 +34,7 @@ CONAMI Mexico's main objective is to fight and defend the rights of indigenous w
 
 ### Familiares Atravesados por el femicidio
 **Argentina**  
-[Email](atravesadosporelfemicidio@gmail.com) | [Facebook](https://www.facebook.com/Atravesados-por-el-femicidio-542493676125700) | [Instagram](https://www.instagram.com/atravesadosporelfemicidio/?hl=en) | [Twitter](https://twitter.com/atravesadosx?lang=en)  
+[Email](mailto:atravesadosporelfemicidio@gmail.com) | [Facebook](https://www.facebook.com/Atravesados-por-el-femicidio-542493676125700) | [Instagram](https://www.instagram.com/atravesadosporelfemicidio/?hl=en) | [Twitter](https://twitter.com/atravesadosx?lang=en)  
 
 A group built by family members of victims of femicide that tries to generate support and services for those who go through violent situations.  
 
@@ -58,7 +58,7 @@ SBI offices are located on Wiyot and Ohlone territories, in Northern California.
 
 ### Women Count USA - Femicide Accountability Project
 **Plano, Texas, USA**  
-[Email](womencountusa@gmail.com) | [Facebook](https://www.facebook.com/womencountusa)  
+[Email](mailto:womencountusa@gmail.com) | [Facebook](https://www.facebook.com/womencountusa)  
 
 Women Count USA - United States Femicide Database was started in late 2016 by Dawn Wilcox to track and document all women & girls murdered by men & boys in the United States and challenge media narratives of domestic violence and femicide.  
 

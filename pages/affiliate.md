@@ -9,7 +9,7 @@ permalink: /affiliates.html
 RIAF partners with a number of organizations who also work in anti-feminicide organizing, advocacy, and activism. For more information about these organizations and their contacts, see below.  
   
   
-***
+{% include feature/nav-menu.html sections="AHORA QUE SI NOS VEN;CONAMI (Coordinadora Nacional de Mujeres Indígenas Mexico);Familiares Atravesados por el femicidio;Sovereign Bodies Institute;Women Count USA - Femicide Accountability Project;" %}
 
 
 ### AHORA QUE SI NOS VEN 
@@ -26,6 +26,7 @@ Ahora que si nos ven is an observatory of gender violence that aims to make visi
 ### CONAMI (Coordinadora Nacional de Mujeres Indígenas Mexico)
 **Mexico**    
 [Email](mailto:mujeresindigenasconami@gmail.com) | [Facebook](https://www.facebook.com/mujeresindigenasconamimexico)  
+
 CONAMI Mexico's main objective is to fight and defend the rights of indigenous women at both the local and international level. Our aim is the political strengthening of Indigenous women and their grassroots organizations.  
 
 *La CONAMI México tiene como objetivo principal la lucha y defensa de los derechos de las mujeres indígenas de lo local a lo internacional. Un eje principal es el fortalecimiento político de las mujeres indígenas y de sus organizaciones de base.*  

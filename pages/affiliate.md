@@ -9,11 +9,12 @@ permalink: /affiliates.html
 RIAF partners with a number of organizations who also work in anti-feminicide organizing, advocacy, and activism. For more information about these organizations and their contacts, see below.  
   
   
-  
+***
+
 
 ### AHORA QUE SI NOS VEN 
-Argentina  
-ahoraquesinosven@gmail.com  
+**Argentina**    
+<ahoraquesinosven@gmail.com>    
 
 [Facebook](https://www.facebook.com/ahoraquesinosven)     
 [Instagram](https://www.instagram.com/ahoraquesinosvenok/)    
@@ -23,14 +24,18 @@ Ahora que si nos ven is an observatory of gender violence that aims to make visi
 
 *Es un observatorio de las violencias de género que tiene como objetivo visibilizar y denunciar las violencias machistas que afectan la libertad de las mujeres, trans, travestis, lesbianas y personas no binaries. La información que desarrollamos, reconstruimos y relevamos tiene como misión ser un insumo para el diseño e implementación de políticas públicas que garanticen nuestro derecho a vivir una vida libre de violencias. Fundado por Raquel Vivanco quien lo presidió desde su creación hasta el 1 de marzo del 2020.*  
 
+***
+
 
 ### CONAMI (Coordinadora Nacional de Mujeres Indígenas Mexico)
-Mexico  
+**Mexico**    
 mujeresindigenasconami@gmail.com  
 [Facebook](https://www.facebook.com/mujeresindigenasconamimexico)  
 CONAMI Mexico's main objective is to fight and defend the rights of indigenous women at both the local and international level. Our aim is the political strengthening of Indigenous women and their grassroots organizations.  
 
 *La CONAMI México tiene como objetivo principal la lucha y defensa de los derechos de las mujeres indígenas de lo local a lo internacional. Un eje principal es el fortalecimiento político de las mujeres indígenas y de sus organizaciones de base.*  
+
+***
 
 ### Familiares Atravesados por el femicidio
 Argentina  
@@ -42,6 +47,8 @@ A group built by family members of victims of femicide that tries to generate su
 
 *Un grupo construido por familiares victimas de femicidios que intenta generar la contención y asesoramiento de aquellos que pasan por situaciones violentas.*  
 
+***
+
 ### Sovereign Bodies Institute
 California, USA  
 [Facebook](https://www.facebook.com/SovereignBodiesInstitute/?__xts__[0]=68.ARCy51YlqoyoFSoCla8yeTarzzfpE2ocHPMyzHrLzB7_BQ4z-zd4ncOISiPcF9Wy-P8STNiFQcCFVQBHMCpxDFK8A7BEHduVDKddIc_8BStBktbVkQcA88AVI177OvowxXts7pPgwMiF0Vibk2gPmHhquaDGuFkL1oARel-X66vJXdxkfBRjTbkSMnokbwx4Fw2MslxLXeAuMaQ46eOAxz96EwpYKDaxbwi5lDS-p9Hax86mtLvHBuaAn50nsnR85zDL1OZHtd-hnAth3e8QXoGxo6Gd_MGBOSE4rCX-dqCGApuyZcwR4YawnrY0WB3wpRNwR59hxnLg10cQGuk5hM3nTA&__xts__[1]=68.ARCcul9bPpL2oPwhNm7uH2Xft97M62eWd9LmmbMxbL3MMI2PpZXRtbblVppetghKYm9PjUJv9LGif6m0xHkEbVqR7F7JSaeK-a4_69EScVITavQnAyRf9R8kFj94TEF7g0uI0vt8BDkTeu60TDQlPuyOSEMXrRvDDVv6Mf_RAD9IM84aCx43B04AJGi7NPPs-TfotMknS289CD07kQ&eid=ARDf8fiXHFZCoFkSdsBW127CDIct7qcS-H3rS2CB1-m24yPXjC_qnlW6mBneupO_xPxdz4D13BorvpxY&fref=mentions)  
@@ -52,6 +59,8 @@ SBI offices are located on Wiyot and Ohlone territories, in Northern California.
 *Sovereign Bodies Institute (SBI) es un hogar para generar nuevos conocimientos y comprensión de cómo las naciones y comunidades indígenas son afectadas por la violencia de género y sexual, y cómo pueden continuar trabajando para curarse y liberarse de esta violencia. En el espíritu de construir tal libertad, SBI está fuertemente comprometido a defender la soberanía de todos los cuerpos que los pueblos indígenas consideran sagrados - nuestros cuerpos físicos, naciones, tierra y agua - y no acepta donaciones de gobiernos coloniales o industrias extractivas. De manera similar, el trabajo de SBI no está limitado por fronteras coloniales, conceptos de género, políticas de identidad o reconocimiento o formas de conocimiento. SBI honra las epistemologías y las formas de vida de los pueblos indígenas y es comprometido a la tierra, a nuestros antepasados ​​y a los demás.*  
 
 *Las oficinas de SBI están ubicadas en los territorios de Wiyot y Ohlone, en el norte de California. El personal, lxs becarixs y los miembros de la junta del SBI se encuentran en las tierras ocupadas por los Estados Unidos y Canadá.*  
+
+***
 
 ### Women Count USA - Femicide Accountability Project
 Plano, Texas, USA  

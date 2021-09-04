@@ -9,7 +9,7 @@ permalink: /affiliates.html
 RIAF partners with a number of organizations who also work in anti-feminicide organizing, advocacy, and activism. For more information about these organizations and their contacts, see below.  
   
   
-{% include feature/nav-menu.html sections="AHORA QUE SI NOS VEN;CONAMI (Coordinadora Nacional de Mujeres Indígenas Mexico);Familiares Atravesados por el femicidio;Sovereign Bodies Institute;Women Count USA - Femicide Accountability Project;" %}
+{% include feature/nav-menu.html sections="AHORA QUE SI NOS VEN;CONAMI (Coordinadora Nacional de Mujeres Indígenas Mexico);Familiares Atravesados por el femicidio;Sovereign Bodies Institute;Women Count USA - Femicide Accountability Project" %}
 
 
 ### AHORA QUE SI NOS VEN 

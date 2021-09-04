@@ -14,11 +14,7 @@ RIAF partners with a number of organizations who also work in anti-feminicide or
 
 ### AHORA QUE SI NOS VEN 
 **Argentina**    
-<ahoraquesinosven@gmail.com>    
-
-[Facebook](https://www.facebook.com/ahoraquesinosven)     
-[Instagram](https://www.instagram.com/ahoraquesinosvenok/)    
-[Twitter](https://twitter.com/ahoraquesinosv4)    
+<ahoraquesinosven@gmail.com> | [Facebook](https://www.facebook.com/ahoraquesinosven) |[Instagram](https://www.instagram.com/ahoraquesinosvenok/) |[Twitter](https://twitter.com/ahoraquesinosv4)    
 
 Ahora que si nos ven is an observatory of gender violence that aims to make visible and denounce sexist violence that affects the freedom of women, trans, *travestis*, lesbians and non-binary people. We develop, reconstruct, and collect data with the mission of being an input for the design and implementation of public policies that guarantee our right to live a life free of violence. Founded by Raquel Vivanco who presided over it from its creation until March 1, 2020.  
 

@@ -9,6 +9,8 @@ permalink: /past.html
 
 ## August 2021
 ### "Ni una menos: un grito vigente en Argentina"/ "Ni una menos: An Urgent Cry in Argentina" 
+*Lara Andrés, Laura Oszust, and el Observatorio Ahora que Nos Ven*
+
 - Wednesday, August 11, 2021 at 4:00 pm CST/CDMX, 6:00 pm Argentina 
 - Miércoles, 11 de agosto 2021 a las 4:00 pm CDMX, 6:00 pm Argentina   
 

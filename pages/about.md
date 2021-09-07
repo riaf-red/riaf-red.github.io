@@ -17,6 +17,7 @@ The Red Interamericana Anti Femicida (Interamerican Anti-Femicide Network or RIA
 
 *La Red Interamericana Anti Femicida (RIAF) es una comunidad multilingüe / interdisciplinaria para el diálogo académico y activista sobre el feminicidio / femicidio en las Américas. El objetivo de este grupo es trabajar de manera colaborativa para facilitar y compartir el conocimiento experto y las experiencias vividas de diversos contextos y comunidades con la intención de compartir conocimiento entre nuestro hemisferio. Creemos que al ampliar nuestro conocimiento colectivo, podemos contribuir a la prevención del feminicidio.*
 
+[Email Us](mailto:redinteramericanaantifemicida@gmail.com)
 
 {% include feature/nav-menu.html sections="About the Digital Repository;Frequently Asked Questions;About the About Page;" %}
 

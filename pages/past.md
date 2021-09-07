@@ -5,7 +5,7 @@ permalink: /past.html
 ---
 
 # Past Events 
-{% include feature/nav-menu.html sections="August 2021;July 2021;May 2021;" %}
+{% include feature/nav-menu.html sections="August 2021;July 2021;May 2021;April 2021;" %}
 
 ## August 2021
 ### "Ni una menos: un grito vigente en Argentina"/ "Ni una menos: An Urgent Cry in Argentina" 
@@ -36,5 +36,7 @@ Organized by la Red Interamericana Anti Femicida and el Observatorio de Violenci
 ### Understanding Femicide from the Perspectives of Perpetrators/*Entender el femicidio desde la perspectiva de los perpetradores*
 *Martín Hernán Di Marco and Dabney P. Evans*
 
-## May 2021
+## April 2021
+### Memory and Erasure in the US Highway Femicides / *Memoria y olvido en feminicidios de carretera en los EEUU*
 
+*Brigittine French*

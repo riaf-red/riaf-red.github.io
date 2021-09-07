@@ -4,8 +4,10 @@ layout: about
 permalink: /past.html
 ---
 
-## Past Events 
+# Past Events 
+{% include feature/nav-menu.html sections="August 2021;July 2021;June 2021;May 2021;" %}
 
+## August 2021
 ### "Ni una menos: un grito vigente en Argentina"/ "Ni una menos: An Urgent Cry in Argentina" 
 - Wednesday, August 11, 2021 at 4:00 pm CST/CDMX, 6:00 pm Argentina 
 - Miércoles, 11 de agosto 2021 a las 4:00 pm CDMX, 6:00 pm Argentina   
@@ -23,6 +25,10 @@ Femicides have always occurred in Argentina, but it was not until 2015, after th
 This event was in Spanish with simultaneous English interpretation. 
 Organized by la Red Interamericana Anti Femicida and el Observatorio de Violencia contra las Mujeres "Ahora Que Sí Nos Ven" 
 
+## July 2021
 
+## June 2021 
+
+## May 2021
 
 {% include feature/image.html objectid="riaf000000008" width="25" caption=false %}{% include feature/image.html objectid="riaf000000009" width="25" caption=false %}

@@ -8,11 +8,8 @@ permalink: /past.html
 {% include feature/nav-menu.html sections="August 2021;July 2021;May 2021;April 2021;" %}
 
 ## August 2021
-### "Ni una menos: un grito vigente en Argentina"/ "Ni una menos: An Urgent Cry in Argentina" 
+### *Ni una menos: un grito vigente en Argentina* / Ni una menos: An Urgent Cry in Argentina 
 *Lara Andrés, Laura Oszust, and el Observatorio Ahora que Nos Ven*
-
-- Wednesday, August 11, 2021 at 4:00 pm CST/CDMX, 6:00 pm Argentina 
-- Miércoles, 11 de agosto 2021 a las 4:00 pm CDMX, 6:00 pm Argentina   
 
 *Los femicidios ocurrieron desde siempre en Argentina, pero fue recién en 2015, a partir del crimen de Chiara Páez, que desencadenó movilizaciones en todo el país ante el grito de "Ni una menos", los femicidios cobraron una resonancia pública y mediática nunca antes vista. Este fenómeno puso en escena la existencia de estos crímenes de odio hacia las mujeres, la necesidad y denuncia por la implementación de políticas públicas que prevengan y frenen las violencias de género y clarificó la potencia de un nuevo (pero también viejo) actor político: los movimientos de mujeres y LGBTIQ+. En esta presentación, demostraremos las particularidades del Ni una menos como fenómeno social, la importancia de contar con registros y contar con datos sobre la violencia de género, las características de los femicidios en Argentina y las deudas pendientes en el grito de Ni unx menos*
 
@@ -40,3 +37,7 @@ Organized by la Red Interamericana Anti Femicida and el Observatorio de Violenci
 ### Memory and Erasure in the US Highway Femicides / *Memoria y olvido en feminicidios de carretera en los EEUU*
 
 *Brigittine French*
+
+Using an unsolved murder of a young white woman in the United States in 1992 as a situated point of entry, French considers interventions of feminist, human rights, and Indigenous scholars in the global South to discuss current research about the systematic murder of women as a gendered form of violence in the United States. French argues that so-called "highway homicides" demonstrate clear characteristics of feminicide as a gendered crime of violence, the persistent inadequacies of state agencies to solve them, and the erasure of such gendered crimes from the politics of counting. It considers some of the ways that memories of lethal gendered violence against women produce a culture of fear in which women are rendered chronically at risk in the foreseable future.
+
+*A partir de un femicidio sin resolver de una joven mujer blanca en los Estados Unidos en 1992 como un punto de entrada, esta presentación considera las intervenciones de académicos feministas, de derechos humanos e Indígenas en el Sur global para discutir la investigación actual sobre el asesinato sistemático de mujeres como una forma de violencia de género en los Estados Unidos. Sostiene que los denominados “homicidios de carretera” demuestran claras características del feminicidio como un delito de violencia de género, las persistentes deficiencias de las agencias estatales para resolverlos y el borrado de tales delitos de género de la política del conteo. Considera algunas de las formas en que las memorias de la violencia letal de género contra las mujeres producen una cultura del miedo en la que las mujeres corren un riesgo crónico en el futuro previsible.*

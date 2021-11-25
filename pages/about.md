@@ -8,9 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="riaf000000005" width="100" caption=false %}
-
-
 # About the Red ("Network")
 
 The Red Interamericana Anti Femicidio (Interamerican Anti-Femicide Network or RIAF) is a multilingual / interdisciplinary community for academic and activist dialogue on feminicide / femicide in the Americas. The goal of this group is to work collaboratively and to facilitate and share expert research as well as lived experiences from diverse contexts and communities with the intention of sharing knowledge across our hemisphere. We believe that by amplifying our collective knowledge, we can help contribute to the prevention of feminicide.

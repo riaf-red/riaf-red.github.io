@@ -20,7 +20,7 @@ The Red Interamericana Anti Femicidio (Interamerican Anti-Femicide Network or RI
 [Email Us](mailto:redinteramericanaantifemicida@gmail.com)
 [Facebook](https://www.facebook.com/groups/369231124607099)
 
-{% include feature/nav-menu.html sections="About the Digital Repository;Frequently Asked Questions;About the About Page;" %}
+{% include feature/nav-menu.html sections="About the Digital Repository;Our Story;Why Femicide/feminicide?;Why Inter-american?;Who We Are and How We Work;Work with US;References;" %}
 
 ## About the Digital Repository
 
@@ -45,7 +45,7 @@ In Latin America, the two terms “femicide” and “feminicide” are both ver
 
 As a network, we acknowledge the contributions and limitations of both terms (femicide and feminicide). We are interested in utilizing and expanding upon these definitions to continue to scholarship on and activism against lethal forms of gender-based violence in the hemisphere.
 
-## Why "Inter-american"? 
+## Why Inter-american? 
 
 While femicide is a global problem, focusing on “the Americas” provides us with the opportunity to focus on gender-based violence through the lens of our shared (but unequally experienced) histories of colonization, slavery and white supremacy, US intervention and hegemony, as they are made manifest into everyday forms of gender-based violence.
 

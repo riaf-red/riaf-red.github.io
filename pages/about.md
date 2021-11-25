@@ -29,7 +29,7 @@ This site is a collection of resources gathered by the Red Interamericana Anti F
 
 ## Our Story
 
-RIAF was founded in September of 2020 as an opportunity for academics and activists--otherwise separated by national borders and institutional/disciplinary silos --to engage in dialogue on their work related to femicide/feminicide in the Americas.
+RIAF was founded in September of 2020 as an opportunity for academics and activists, otherwise separated by national borders and institutional / disciplinary silos, to engage in dialogue on their work related to femicide / feminicide in the Americas.
 
 ## Why Femicide/feminicide?
 

@@ -25,7 +25,7 @@ Ahora que si nos ven is an observatory of gender violence that aims to make visi
 
 ### CONAMI (Coordinadora Nacional de Mujeres Indígenas Mexico)
 **Mexico**    
-[Email](mailto:mujeresindigenasconami@gmail.com) | [Facebook](https://www.facebook.com/mujeresindigenasconamimexico)  
+[Email](mailto:mujeresindigenasconami@gmail.com) | [Facebook](https://www.facebook.com/mujeresindigenasconamimexico)  | [YouTube](https://www.youtube.com/channel/UCtACRCWaqRkg3VCEZ57wsrw/videos)  |   [Twitter](https://twitter.com/conamim?lang=es)
 
 CONAMI Mexico's main objective is to fight and defend the rights of indigenous women at both the local and international level. Our aim is the political strengthening of Indigenous women and their grassroots organizations.  
 
@@ -45,7 +45,7 @@ A group built by family members of victims of femicide that tries to generate su
 
 ### Sovereign Bodies Institute
 **California, USA**  
-[Facebook](https://www.facebook.com/SovereignBodiesInstitute/?__xts__[0]=68.ARCy51YlqoyoFSoCla8yeTarzzfpE2ocHPMyzHrLzB7_BQ4z-zd4ncOISiPcF9Wy-P8STNiFQcCFVQBHMCpxDFK8A7BEHduVDKddIc_8BStBktbVkQcA88AVI177OvowxXts7pPgwMiF0Vibk2gPmHhquaDGuFkL1oARel-X66vJXdxkfBRjTbkSMnokbwx4Fw2MslxLXeAuMaQ46eOAxz96EwpYKDaxbwi5lDS-p9Hax86mtLvHBuaAn50nsnR85zDL1OZHtd-hnAth3e8QXoGxo6Gd_MGBOSE4rCX-dqCGApuyZcwR4YawnrY0WB3wpRNwR59hxnLg10cQGuk5hM3nTA&__xts__[1]=68.ARCcul9bPpL2oPwhNm7uH2Xft97M62eWd9LmmbMxbL3MMI2PpZXRtbblVppetghKYm9PjUJv9LGif6m0xHkEbVqR7F7JSaeK-a4_69EScVITavQnAyRf9R8kFj94TEF7g0uI0vt8BDkTeu60TDQlPuyOSEMXrRvDDVv6Mf_RAD9IM84aCx43B04AJGi7NPPs-TfotMknS289CD07kQ&eid=ARDf8fiXHFZCoFkSdsBW127CDIct7qcS-H3rS2CB1-m24yPXjC_qnlW6mBneupO_xPxdz4D13BorvpxY&fref=mentions)  
+[Facebook](https://www.facebook.com/SovereignBodiesInstitute/?__xts__[0]=68.ARCy51YlqoyoFSoCla8yeTarzzfpE2ocHPMyzHrLzB7_BQ4z-zd4ncOISiPcF9Wy-P8STNiFQcCFVQBHMCpxDFK8A7BEHduVDKddIc_8BStBktbVkQcA88AVI177OvowxXts7pPgwMiF0Vibk2gPmHhquaDGuFkL1oARel-X66vJXdxkfBRjTbkSMnokbwx4Fw2MslxLXeAuMaQ46eOAxz96EwpYKDaxbwi5lDS-p9Hax86mtLvHBuaAn50nsnR85zDL1OZHtd-hnAth3e8QXoGxo6Gd_MGBOSE4rCX-dqCGApuyZcwR4YawnrY0WB3wpRNwR59hxnLg10cQGuk5hM3nTA&__xts__[1]=68.ARCcul9bPpL2oPwhNm7uH2Xft97M62eWd9LmmbMxbL3MMI2PpZXRtbblVppetghKYm9PjUJv9LGif6m0xHkEbVqR7F7JSaeK-a4_69EScVITavQnAyRf9R8kFj94TEF7g0uI0vt8BDkTeu60TDQlPuyOSEMXrRvDDVv6Mf_RAD9IM84aCx43B04AJGi7NPPs-TfotMknS289CD07kQ&eid=ARDf8fiXHFZCoFkSdsBW127CDIct7qcS-H3rS2CB1-m24yPXjC_qnlW6mBneupO_xPxdz4D13BorvpxY&fref=mentions)  |  [Instagram](https://www.instagram.com/sovereignbodies/) |[Twitter](https://twitter.com/safensovereign)
 
 Sovereign Bodies Institute (SBI) is a home for generating new knowledge and understandings of how Indigenous nations and communities are impacted by gender and sexual violence, and how they may continue to work towards healing and freedom from such violence. In the spirit of building such freedom, SBI is strongly committed to upholding the sovereignty of all bodies Indigenous peoples hold sacred--our physical bodies, nations, land, and water--and does not accept grants from colonial governments or extractive industries. Similarly, SBI’s work is not limited by colonial borders, concepts of gender, politics of identity or recognition, or ways of knowing. SBI honors the epistemologies and lifeways of indigenous peoples, and is bound by accountability to the land, our ancestors, and each other.  
 

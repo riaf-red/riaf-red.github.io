@@ -7,6 +7,7 @@ permalink: /past.html
 # Past Events 
 {% include feature/nav-menu.html sections="August 2021;July 2021;May 2021;April 2021;" %}
 
+
 ## August 2021
 ### *Ni una menos: un grito vigente en Argentina* / Ni una menos: An Urgent Cry in Argentina 
 *Lara Andrés, Laura Oszust, and el Observatorio Ahora que Nos Ven*
@@ -24,12 +25,26 @@ Femicides have always occurred in Argentina, but it was not until 2015, after th
 
 *Patricia Torres Sandoval, Maritza del Carmen Yeh Chan, Laura Hernández Pérez, and Dolores Figueroa* 
 
+[Recording/Grabación](https://www.facebook.com/watch/live/?v=345619707003915&ref=watch_permalink)
+
+Femicide and feminicide are terms that are used to refer to, and to make visible, the murders of women. Historically theorized by the academy, these terms can oftentimes erase the experiences and knowledge of Indigenous and Afro-descendant women. In this forum "Femicide from the voices of indigenous women: experience of the Emergencia Comunitaria de Género initiative," Maritza del Carmen Yeh Chan, Patricia Torres Sandoval and Laura Hernández Pérez, leaders of CONAMI (National Coordinator of Indigenous Women of Mexico) will share their reflections on feminicide from the realities of Indigenous women and peoples. Taking place over Zoom and Facebook Live (@mujeresindigenasconamimexico), this forum will focus on the Emergencia Comunitaria de Género Initiative as a benchmark political response created by organized Indigenous women to work against feminicide. It will focus on the use of infoactivism and documentation to make feminicide visible from Indigenous contexts.
+
+This forum is organized by CONAMI (Comisión Nacional de Mujeres Indigenas de Mexico), ECMIA (Enlace Continental de Mujeres Indígenas de las Americas), and RIAF (Red Interamericana Anti Femicidio).
+
+*Femicidio y feminicidio son términos que son usados para referirse a los asesinatos de mujeres y la necesidad de visibilizar esta problemática. En ocasiones teorizado por la academia se desdibujan las experiencias y conocimientos de mujeres indígenas y afrodescendientes. En este foro “El Feminicidio desde las voces de mujeres indígenas: experiencia de la iniciativa Emergencia Comunitaria de Género,” Maritza del Carmen Yeh Chan, Patricia Torres Sandoval y Laura Hernández Pérez, lideresas de la CONAMI (Coordinadora Nacional de Mujeres Indígenas CONAMI México) compartirán sus reflexiones sobre el feminicidio desde la realidad de las mujeres y pueblos indígenas. Transmitido por el Zoom y Facebook Live (@mujeresindigenasconamimexico), este foro se enfocará en la Iniciativa Emergencia Comunitaria de Género como un referente de respuesta política por parte de mujeres indígenas organizadas y la utilización de infoactivismo y documentación para visibilizar el feminicidio desde los contextos indígenas.*
+
+*Este foro es organizado por CONAMI (Coordinadora Nacional de Mujeres Indígenas CONAMI México), Región México del ECMIA (Enlace Continental de Mujeres Indígenas de las Américas), y RIAF (Red Interamericana Anti Femicidio).*
+
 {% include feature/image.html objectid="riaf000000006" width="25" caption=false %}
 
 
 ## May 2021 
 ### Understanding Femicide from the Perspectives of Perpetrators/*Entender el femicidio desde la perspectiva de los perpetradores*
 *Martín Hernán Di Marco and Dabney P. Evans*
+
+Most research on intimate femicide, the intentional killing of a woman or girl by a past or current intimate partner, has justifiably focused on victims. Yet, intimate femicide perpetrators are rarely studied despite their important role as drivers of violence. In this charla we present the results of two interrelated studies focused on femicide perpetrators in Argentina. The first study examines explanatory narratives of men who intentionally killed their female intimate partners. Four archetypes emerged: victim, redemption, extraordinary, and outburst. The second study identifies risk factors and gendered narratives among male perpetrators from a public health and human rights perspective. Three themes were identified: abandonment is a trigger for femicide perpetrators; perpetrators do not view themselves as violent; and the femicide act serves to transfer emotional pain. Both of these studies illustrate the relevance of understanding femicide perpetrators, their lives and narratives, as a way to fully comprehend this phenomenon and design evidence-based interventions.
+
+*La mayoría de las investigaciones sobre femicidio íntimo, el asesinato intencional de una mujer o una niña en base a su género, se han centrado en las víctimas. Sin embargo, los perpetradores de femicidios íntimos rara vez son estudiados en forma directa a pesar de que esto es central para comprender el ejercicio de la violencia. En esta charla presentamos los resultados de dos estudios interrelacionados centrados en los autores de femicidios en Argentina. El primer estudio examina las narrativas explicativas de los hombres que mataron intencionalmente a sus parejas íntimas mujeres. Surgieron cuatro arquetipos: víctima, redención, extraordinario, y exabrupto. El segundo estudio identifica factores de riesgo y narrativas de género entre los perpetradores desde una perspectiva sanitaria y de derechos humanos. Se identificaron tres temas recurrentes en los relatos biográficos: el abandono como un detonante de la violencia; los perpetradores no se consideran violentos; y el acto de femicidio sirve para transferir dolor emocional. Ambos estudios ilustran la relevancia de comprender a los perpetradores de femicidio, sus vidas y narrativas, como una forma de comprender este fenómeno y diseñar intervenciones basadas en la evidencia.*
 
 {% include feature/image.html objectid="riaf000000003" width="25" caption=false %}
 
